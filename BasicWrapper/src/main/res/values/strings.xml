@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Wrapper</string>
+    <string name="open_core_screen">Open Core Screen</string>
+    <string name="wrapper_application_title">Wrapper Application</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoreLib</string>
+    <string name="lib_title">Redknee Sample Lib</string>
+    <string name="img_desc_logo">Logo</string>
+</resources>

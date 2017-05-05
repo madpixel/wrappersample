@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicWrapper/BasicWrapper.iml" filepath="$PROJECT_DIR$/BasicWrapper/BasicWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomWrapper/CustomWrapper.iml" filepath="$PROJECT_DIR$/CustomWrapper/CustomWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper.iml" filepath="$PROJECT_DIR$/Wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corelib/corelib.iml" filepath="$PROJECT_DIR$/corelib/corelib.iml" />
+    </modules>
+  </component>
+</project>
